@@ -58,7 +58,7 @@ function Header(){
                         </li> */}
 
                         <li className="nav_item">
-                            <a href='https://drive.google.com/file/d/1PAxkv2B5puBSlh5LSZnth2lOtGliNtP1/view' target='blank' onClick={() => setActiveNav('#portfolio')}  
+                            <a href='https://drive.google.com/file/d/1ZZSOjVdDDgvyV-6qUDReCw92VEvP7f6F/view?usp=sharing' target='blank' onClick={() => setActiveNav('#portfolio')}  
                             className={activeNav === '#portfolio' ? "nav_link active-link" : "nav_link"}>
                                 <i className="uil uil-scenery nav_icon"></i> Portfolio
                             </a>
