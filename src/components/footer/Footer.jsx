@@ -13,7 +13,7 @@ function Footer (){
                 </li>
 
                 <li>
-                    <a href="https://drive.google.com/file/d/1PAxkv2B5puBSlh5LSZnth2lOtGliNtP1/view" className="footer_link">Project</a>
+                    <a href="https://drive.google.com/file/d/1PAxkv2B5puBSlh5LSZnth2lOtGliNtP1/view" target="blank" className="footer_link">Portfolio</a>
                 </li>
 
                 <li>
